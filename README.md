@@ -6,6 +6,9 @@ http://nilc.icmc.usp.br/leg2kids/
 Legendas:
 https://drive.google.com/open?id=1-Tcc4B_Nt3i_E-PTykib8GK-mei7L4tp
 
+Frequências Tokens:
+https://drive.google.com/open?id=1GaLr6ZFu984VtXZnCOvEgkRwAkx9EFYm
+
 Legendas+POS:
 https://drive.google.com/open?id=1WpZq4L97BO5QkJLHMOe4QYQYXhtkimco
 
