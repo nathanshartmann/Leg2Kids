@@ -14,11 +14,10 @@ Lexical Simplification (LS) has the function of exchanging words or expressions 
 
 The objective of this article was to evaluate two CWI methods of the threshold-based approach (word frequency and contextual diversity) in the Leg2Kids subtitle corpus, contrasting this approach with the one assisted by machine learning, using the same frequency and contextual diversity resources in Leg2Kids.
 
+Leg2Kids contains 153,791,083 tokens and 452,312 types which indicates a type-token ratio (TTR) of 0.294%.
+
 We made available some resources:
 * [Subtitles](https://drive.google.com/open?id=1-Tcc4B_Nt3i_E-PTykib8GK-mei7L4tp)
 * [Subtitles+POS](https://drive.google.com/open?id=1WpZq4L97BO5QkJLHMOe4QYQYXhtkimco)
 * [Word frequencies](https://drive.google.com/open?id=1D8tDfdRQSweHP4OATb3yYc9Vs_QEDUhm)
 * [Token frequencies](https://drive.google.com/open?id=1GaLr6ZFu984VtXZnCOvEgkRwAkx9EFYm)
-
-
-
